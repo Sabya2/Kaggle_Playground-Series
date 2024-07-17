@@ -1,5 +1,4 @@
-# Kaggle-Jan-TPS-2022
-## tps-jan2022-grid-search-cv-lgbm.ipynb
+# Kaggle-Jan-TPS-2022 ## tps-jan2022-grid-search-cv-lgbm.ipynb
 - Explored PCA
 - Algorithms explored and compared are Random Forest, LGBM
 - Comapred Grid search and Random search 
