@@ -1,13 +1,16 @@
-## Kaggle-Jan-TPS-2022 
-
+## Kaggle-September-TPS-2024
 ### [tps-sep2024](tps-september2024-s4e9-ml.ipynb)   
 - ANOVA testing to target variable to perfomr target encoding saving fetaure space
 
 
+
+## Kaggle-Jan-TPS-2022 
 ### [tps-jan2022](tps-jan2022-grid-search-cv-lgbm.ipynb)
 - Explored PCA
 - Algorithms explored and compared are Random Forest, LGBM
 - Comapred Grid search and Random search 
+
+
 
 ## Kaggle-Aug-TPS-2021
 ### [tps-aug2021](tps-aug2021-random-forest.ipynb)
@@ -16,6 +19,7 @@
 - Feature exploration
 - Manual hyperparameter tuning to understand the effects of the parameters on the model
 - Explored Random Forest; PCA; LGBM. 
+
 
 
 ## Kaggle-July-TPS-2021
