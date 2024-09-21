@@ -1,4 +1,9 @@
 ## Kaggle-Jan-TPS-2022 
+
+### [tps-sep2024](tps-september2024(s4e9)-Ml.ipynb)
+- ANOVA testing to target variable to perfomr target encoding saving fetaure space
+
+
 ### [tps-jan2022](tps-jan2022-grid-search-cv-lgbm.ipynb)
 - Explored PCA
 - Algorithms explored and compared are Random Forest, LGBM
