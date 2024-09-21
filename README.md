@@ -1,6 +1,6 @@
 ## Kaggle-Jan-TPS-2022 
 
-### [tps-sep2024](tps-september2024(s4e9)-Ml.ipynb)
+### [tps-sep2024](tps-september2024-s4e9-ml.ipynb)   
 - ANOVA testing to target variable to perfomr target encoding saving fetaure space
 
 
