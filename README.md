@@ -1,6 +1,8 @@
 ## Kaggle-September-TPS-2024
 ### [tps-sep2024](tps-september2024-s4e9-ml.ipynb)   
-- ANOVA testing to target variable to perfomr target encoding saving fetaure space
+- ANOVA testing to target variable to perfomr target encoding saving feature space
+- data normalisation, correlation
+- comparing models (linear regression, XGBoost, Random Forest Regressor, LGBM regressor)
 
 
 
