@@ -1,4 +1,9 @@
 ## Kaggle-Sep-TPS-2024
+
+###[tps-sep2024-DL](tps-september2024-s4e9-dl.ipynb)
+- Simple ANN model comparison
+- Feature space managed using target encoding for the categorical variables
+  
 ### [tps-sep2024-ML](tps-september2024-s4e9-ml.ipynb)   
 - ANOVA testing to target variable to perfomr target encoding saving feature space
 - data normalisation, correlation
