@@ -1,3 +1,11 @@
+## kaggle-Oct-TPS-2024
+### [tps-oct2024-ML](tsp-oct2024-ml.ipynb)
+- ML based approach to predcit the laon status
+- One hot encoding
+- Executed Baseline model (LGBM, Random Forest, Logistic regession)
+
+
+
 ## Kaggle-Sep-TPS-2024
 ### [tps-sep2024-DL](tps-september2024-s4e9-dl.ipynb)
 - Simple ANN model comparison
