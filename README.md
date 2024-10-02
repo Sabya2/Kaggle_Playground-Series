@@ -1,7 +1,7 @@
 ## kaggle-Oct-TPS-2024
 ### [tps-oct2024-ML](tsp-oct2024-ml.ipynb)
-- ML based approach to predcit the laon status
-- One hot encoding
+- ML based approach to predcit the loan status
+- One-hot encoding
 - Executed Baseline model (LGBM, Random Forest, Logistic regession)
 
 
